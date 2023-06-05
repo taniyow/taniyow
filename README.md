@@ -1,16 +1,17 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/WUTywPPYZpdDChyBaZ/giphy.gif" width="100"/>
+</div>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/mcmtan/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:markcmtan@gmail.com">
+    <img src="https://img.shields.io/badge/markcmtan%40gmail.com-Gmail-red?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
+  </a>
+</div>
 
-<!--
-**taniyow/taniyow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻🛠️ : Tech and Tools :
