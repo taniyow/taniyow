@@ -17,10 +17,7 @@
 ### 👨‍💻 : Tech Stack :
 
 <div align="center">
-  <svg height="50" width="50">
-      <circle cx="25" cy="25" r="20" fill="white" />
-      <image href="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" height="40" width="40" x="5" y="5"/>
-  </svg>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Nextjs" alt="Nextjs" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="Reactjs" alt="Reactjs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
