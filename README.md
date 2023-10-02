@@ -10,8 +10,6 @@
   </a>
 </div>
 
-![Snake animation](https://github.com/taniyow/taniyow/blob/main/github-contribution-grid-snake.svg)
-
 ---
 
 ### 👨‍💻 : Tech Stack :
