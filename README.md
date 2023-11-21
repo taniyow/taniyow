@@ -1,6 +1,6 @@
-<div id="header" align="center">
+<!--<div id="header" align="center">
   <img src="https://media.giphy.com/media/WUTywPPYZpdDChyBaZ/giphy.gif" width="300"/>
-</div>
+</div>-->
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/mcmtan/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -43,7 +43,7 @@
 </div>
 
 ---
-
+<!--
 ### 📑 : Learning :
 
 <div align="center">
@@ -51,3 +51,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" title="Svelte" **alt="Svelte" width="40" height="40"/>
 </div>
+-->
