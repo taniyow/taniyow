@@ -3,7 +3,7 @@
 </div>-->
 <div id="badges" align="center">
   <a href="www.linkedin.com/in/mcmtan/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/mcmtan-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:markcmtan@gmail.com">
     <img src="https://img.shields.io/badge/markcmtan%40gmail.com-Gmail-red?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
