@@ -35,7 +35,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="Google Cloud Platform" alt="Google Cloud Platform" width="40" height="40"/>&nbsp;
 </div>
 
+<!--
 ---
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taniyow&theme=gotham)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=taniyow&theme=gotham)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=taniyow&theme=gotham)
+-->
