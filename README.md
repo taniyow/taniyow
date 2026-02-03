@@ -11,7 +11,6 @@
 <!--
 <a href="https://gitroll.io/profile/u6fB1VNDa3HXIgCDXCaufmg0tgT32" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u6fB1VNDa3HXIgCDXCaufmg0tgT32?theme=nord" alt="GitRoll Profile Badge"/></a>
 -->
----
 
 ### 👨‍💻 : Tech Stack :
 
