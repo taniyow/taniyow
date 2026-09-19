@@ -6,12 +6,24 @@
     <img src="https://img.shields.io/badge/markcmtan%40gmail.com-Gmail-red?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
   </a>
 </div>
+
+# Hey, I'm Mark 👋
+
+Full-stack and product engineer building production SaaS applications,
+AI-powered workflows, and complex business systems.
+
+I've worked across fintech, construction, healthcare, e-commerce,
+and internal operations products, often owning features end-to-end
+from product requirements and architecture to implementation and deployment.
+
 <!--
 ### ⭐ : Git Roll Profile :
 <!--
 <a href="https://gitroll.io/profile/u6fB1VNDa3HXIgCDXCaufmg0tgT32" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u6fB1VNDa3HXIgCDXCaufmg0tgT32?theme=nord" alt="GitRoll Profile Badge"/></a>
 -->
 
+<!--
+---
 ### 👨‍💻 : Tech Stack :
 
 <div align="center">
@@ -33,6 +45,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="Google Cloud Platform" alt="Google Cloud Platform" width="40" height="40"/>&nbsp;
 </div>
+-->
 
 <!--
 ---
